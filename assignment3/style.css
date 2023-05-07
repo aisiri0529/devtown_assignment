@@ -2,3 +2,8 @@ body{
     background: rgb(238,174,174);
 background: radial-gradient(circle, rgba(238,174,174,1) 0%, rgba(153,148,233,1) 100%);
 }
+
+svg{
+    height: 20px;
+    width:20px
+}
